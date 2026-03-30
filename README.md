@@ -1,5 +1,3 @@
-<img src="https://readme-typing-svg.herokuapp.com?color=7F3FBF&size=25&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Angular+%7C+React+%7C+TypeScript;Building+scalable+web+apps" />
-
 # 👋 Hi, I'm Valeriia Kravchuk
 
 ## 💻 Fullstack Developer (Frontend-focused) | React | Angular | TypeScript  
