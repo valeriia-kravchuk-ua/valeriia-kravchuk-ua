@@ -29,13 +29,18 @@ Comfortable working in Agile/Scrum teams and delivering production-ready feature
 
 ![Valeriia's GitHub stats](https://github-readme-stats.vercel.app/api?username=valeriia-kravchuk-ua&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valeriia-kravchuk-uaE&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valeriia-kravchuk-ua&layout=compact&theme=tokyonight)
+
+---
+## 🔥 GitHub Streak  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=valeriia-kravchuk-ua&theme=tokyonight)
 
 ---
 
-## 🔥 GitHub Activity  
+## ⚡ GitHub Activity  
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=valeriia-kravchuk-uaE&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=valeriia-kravchuk-ua&theme=tokyo-night)
 
 ---
 
@@ -45,7 +50,7 @@ Comfortable working in Agile/Scrum teams and delivering production-ready feature
   Scientific platform for High Performance Computing.  
   Developed responsive UI, integrated APIs, and worked with data visualization.  
 
-- [Contact Saver]([https://github.com/valeriia-kravchuk-ua/contact-saver](https://contacts-card.vercel.app/))  
+- [Contact Saver](https://github.com/valeriia-kravchuk-ua/contacts-card)  
   Contact management app with authentication and CRUD functionality.  
 
 - [Ice Cream Website](https://github.com/valeriia-kravchuk-ua/ice-cream-project)  
