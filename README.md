@@ -67,7 +67,7 @@ Comfortable working in Agile/Scrum teams and delivering production-ready feature
 
 ## 📫 Contact me  
 
-[LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/valeriia-kravchuk-ua/))  
+[LinkedIn](https://www.linkedin.com/in/valeriia-kravchuk-ua/)  
 Email: valeriia.kravchuk.ua@gmail.com
 
 <!--
