@@ -1,12 +1,16 @@
+<img src="https://readme-typing-svg.herokuapp.com?color=7F3FBF&size=25&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Angular+%7C+React+%7C+TypeScript;Building+scalable+web+apps" />
+
 # 👋 Hi, I'm Valeriia Kravchuk
 
 ## 💻 Fullstack Developer (Frontend-focused) | React | Angular | TypeScript  
 
-Fullstack developer with commercial experience building scalable and responsive web applications.  
-Specialized in frontend development using Angular and React, focusing on performance, clean architecture, and user experience.  
+Fullstack Developer (Frontend-focused) with commercial experience building scalable and high-performance web applications.
 
-Experienced in SPA development, REST API integration, and building reusable UI components.  
-Worked with NgRx, SCSS, Tailwind CSS, and performance optimization techniques like lazy loading.  
+Specialized in Angular and React, with a strong focus on clean architecture, performance optimization, and user experience.
+
+Experienced in developing SPA applications, integrating REST APIs, and building reusable UI components.
+
+Worked with NgRx, Tailwind CSS, SCSS, and modern frontend practices.
 
 Comfortable working in Agile/Scrum teams and delivering production-ready features.
 
@@ -25,12 +29,6 @@ Comfortable working in Agile/Scrum teams and delivering production-ready feature
 
 ---
 
-## 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=valeriia-kravchuk-ua&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=valeriia-kravchuk-ua&layout=compact&theme=tokyonight)
----
 ## 🔥 GitHub Streak  
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=valeriia-kravchuk-ua&theme=tokyonight)
@@ -47,13 +45,15 @@ Comfortable working in Agile/Scrum teams and delivering production-ready feature
 
 - [HPC Project](https://github.com/valeriia-kravchuk-ua/hpc-project)  
   Scientific platform for High Performance Computing.  
-  Developed responsive UI, integrated APIs, and worked with data visualization.  
+  Built responsive UI, integrated REST APIs, and implemented data visualization features.
 
 - [Contact Saver](https://github.com/valeriia-kravchuk-ua/contacts-card)  
-  Contact management app with authentication and CRUD functionality.  
+  Contact management application with authentication and CRUD functionality.  
+  Implemented private routing, API integration, and responsive UI.  
 
 - [Ice Cream Website](https://github.com/valeriia-kravchuk-ua/IceCrem_project)  
-  Responsive landing page with animations and modern UI.  
+  Responsive landing page with animations and interactive UI components.  
+  Focused on performance, layout adaptability, and user experience.
 
 ---
 
@@ -66,7 +66,7 @@ Comfortable working in Agile/Scrum teams and delivering production-ready feature
 
 ## 📫 Contact me  
 
-[LinkedIn](https://www.linkedin.com/in/valeriia-kravchuk-ua/)  
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/valeriia-kravchuk-ua/)  
 Email: valeriia.kravchuk.ua@gmail.com
 
 <!--
