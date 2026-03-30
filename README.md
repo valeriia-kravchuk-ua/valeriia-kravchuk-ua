@@ -27,10 +27,9 @@ Comfortable working in Agile/Scrum teams and delivering production-ready feature
 
 ## 📊 GitHub Stats  
 
-![Valeriia's GitHub stats](https://github-readme-stats.vercel.app/api?username=valeriia-kravchuk-ua&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=valeriia-kravchuk-ua&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valeriia-kravchuk-ua&layout=compact&theme=tokyonight)
-
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=valeriia-kravchuk-ua&layout=compact&theme=tokyonight)
 ---
 ## 🔥 GitHub Streak  
 
