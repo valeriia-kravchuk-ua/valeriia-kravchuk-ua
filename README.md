@@ -45,7 +45,7 @@ Comfortable working in Agile/Scrum teams and delivering production-ready feature
   Scientific platform for High Performance Computing.  
   Developed responsive UI, integrated APIs, and worked with data visualization.  
 
-- [Contact Saver](https://github.com/valeriia-kravchuk-ua/contact-saver)  
+- [Contact Saver]([https://github.com/valeriia-kravchuk-ua/contact-saver](https://contacts-card.vercel.app/))  
   Contact management app with authentication and CRUD functionality.  
 
 - [Ice Cream Website](https://github.com/valeriia-kravchuk-ua/ice-cream-project)  
