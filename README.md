@@ -53,7 +53,7 @@ Comfortable working in Agile/Scrum teams and delivering production-ready feature
 - [Contact Saver](https://github.com/valeriia-kravchuk-ua/contacts-card)  
   Contact management app with authentication and CRUD functionality.  
 
-- [Ice Cream Website](https://github.com/valeriia-kravchuk-ua/ice-cream-project)  
+- [Ice Cream Website](https://github.com/valeriia-kravchuk-ua/IceCrem_project)  
   Responsive landing page with animations and modern UI.  
 
 ---
