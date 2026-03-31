@@ -64,9 +64,9 @@ Comfortable working in Agile/Scrum teams and delivering production-ready feature
 
 ## 📫 How to reach me:
 
-🔗 [LinkedIn](https://linkedin.com/in/valeriia-kravchuk-ua)  
-💬 [Telegram](https://t.me/lera1003)  
-📧 [Email](mailto:valeriia.kravchuk.ua@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/valeriia-kravchuk-ua)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lera1003)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:valeriia.kravchuk.ua@gmail.com)
 <!--
 **valeriia-kravchuk-ua/valeriia-kravchuk-ua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
